@@ -1,7 +1,7 @@
 # email-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Email
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Email (beta)](https://www.cdata.com/download/download.aspx?sku=REZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Email (beta)](https://www.cdata.com/download/download.aspx?sku=REZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Email supported by the [CData JDBC Driver for Email](https://www.cdata.com/drivers/email/jdbc).
 
